@@ -28,7 +28,7 @@
       </p>
     </td>
     <td>
-      <img height="200" src="img\xolo.svg" >
+      <img align='right' src="img\xolo.svg" width='200"'>
     </td>
   </tr>
 </table>
