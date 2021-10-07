@@ -20,17 +20,7 @@
       <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
     </td>
   </tr>
-  <tr>
-    <td> 
-      <h2>Collaboration in Projects</h2>
-      <p>
-        I have been actively collaborating since January 2020 in <a href="https://www.instagram.com/daniel.ruiz.gdl" target="_blank"> BlueXolo</a>, an Open Source project for atumatized tests with Robot Framework.
-      </p>
-    </td>
-    <td>
-      <img align='right' src="img\xolo.svg" width='200"'>
-    </td>
-  </tr>
+
 </table>
 
 ## Visitors:
