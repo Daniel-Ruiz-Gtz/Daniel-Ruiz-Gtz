@@ -1,9 +1,9 @@
 ![New](https://user-images.githubusercontent.com/58959667/136335666-68a2cacb-95ca-4a28-966e-5b7746b60374.gif)
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/danielruizgtz"><img height="40" src="img\linkedin.svg" target="_blank"></a>
-  <a href="https://twitter.com/Daniel_Ruiz_Gtz"><img height="40" src="img\twitter.svg" target="_blank"></a>
-  <a href="https://www.instagram.com/daniel.ruiz.gdl"><img height="40" src="img\instagram.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danielruizgtz" target="_blank"><img height="40" src="img\linkedin.svg"></a>
+  <a href="https://twitter.com/Daniel_Ruiz_Gtz" target="_blank"><img height="40" src="img\twitter.svg"></a>
+  <a href="https://www.instagram.com/daniel.ruiz.gdl" target="_blank"><img height="40" src="img\instagram.svg"></a>
 </p>
 
 # < Hi, I'm Daniel />
@@ -26,13 +26,14 @@
     <td> 
       <h2>Collaboration in Projects</h2>
       <p>
-        I have been actively collaborating since January 2020 in BlueXolo, an Open Source project for atumatized tests with Robot Framework
+        I have been actively collaborating since January 2020 in <a href="https://www.instagram.com/daniel.ruiz.gdl" target="_blank"> BlueXolo</a>, an Open Source project for atumatized tests with Robot Framework.
       </p>
     </td>
     <td>
-      <a href="https://github.com/IBM/BlueXolo"><img height="200" src="img\xolo.svg" target="_blank"></a>
+      <img height="200" src="img\xolo.svg" >
     </td>
   </tr>
 </table>
+
 ## Visitors:
 <img src="https://profile-counter.glitch.me/Daniel-Ruiz-Gtz/count.svg" />
