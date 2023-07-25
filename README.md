@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/danielruizgtz" target="_blank"><img height="40" src="img\linkedin.svg"></a>
   <a href="https://twitter.com/Daniel_Ruiz_Gtz" target="_blank"><img height="40" src="img\twitter.svg"></a>
   <a href="https://www.instagram.com/daniel.ruiz.gdl" target="_blank"><img height="40" src="img\instagram.svg"></a>
+  <a href="https://www.codewars.com/users/Daniel-Ruiz-Gtz" target="_blank"><img height="40" src="img\codewars.svg"></a>
 </p>
 
 # < Hi, I'm Daniel />
