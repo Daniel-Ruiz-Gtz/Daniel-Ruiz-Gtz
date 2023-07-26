@@ -4,11 +4,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/danielruizgtz" target="_blank"><img height="40" src="img\linkedin.svg"></a>
   <a href="https://twitter.com/Daniel_Ruiz_Gtz" target="_blank"><img height="40" src="img\twitter.svg"></a>
-  <p>
-    <a href="https://www.instagram.com/daniel.ruiz.gtz/" target="_blank">
-      <img height="40" src="img/instagram.svg" alt="Instagram">
-    </a>
-  </p>
+  <a href="https://www.instagram.com/daniel.ruiz.gtz/" target="_blank"><img height="40" src="img\instagram.svg"></a>
 </p>
 
 # < Hi, I'm Daniel />
