@@ -6,10 +6,8 @@
   <a href="https://twitter.com/Daniel_Ruiz_Gtz" target="_blank"><img height="40" src="img\twitter.svg"></a>
   <a href="https://www.instagram.com/daniel.ruiz.gtz/" target="_blank"><img height="40" src="img\instagram.svg"></a>
 </p>
-
 # < Hi, I'm Daniel />
 <a target="_blank"><img height="40" src="https://www.codewars.com/users/Daniel-Ruiz-Gtz/badges/large"></a>
-
 ## About Me
 Hello! 👋 I am a passionate Computer Engineering graduate from Universidad de Guadalajara, Mexico, with a strong focus on Automation and Scripting. I thoroughly enjoy developing solutions to automate tasks and streamline processes, making life easier through code.
 
